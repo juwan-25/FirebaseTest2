@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138692152198",
+    "project_id": "fir-test2-ccc6f",
+    "storage_bucket": "fir-test2-ccc6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138692152198:android:84b5ac878f01c4705dba07",
+        "android_client_info": {
+          "package_name": "kr.hs.emirim.example.firebasetest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138692152198-eo36ov8701il36mdlaltutklkasmp566.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.emirim.example.firebasetest2",
+            "certificate_hash": "1540fb5c5bffc8955ba3ec98513791623230d0b5"
+          }
+        },
+        {
+          "client_id": "138692152198-jdqre0v7t3727soj98vbcor04lhevigs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TF6y0jXJszzhP2wWZZWDCU4ii1vGc6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138692152198-jdqre0v7t3727soj98vbcor04lhevigs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
